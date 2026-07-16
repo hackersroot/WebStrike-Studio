@@ -45,7 +45,7 @@ Run the following commands sequentially in your terminal to clone the repository
 
 ```bash
 # 1. Clone the repository down to your local testing environment
-git clone [https://github.com/hackersroot/WebStrike-Studio.git](https://github.com/hackersroot/WebStrike-Studio.git)
+git clone https://github.com/hackersroot/WebStrike-Studio.git
 
 # 2. Navigate into the root workspace directory
 cd WebStrike-Studio
