@@ -234,7 +234,7 @@ class WebScanGUI(tk.Tk):
 
     def __init__(self) -> None:
         super().__init__()
-        self.title("Web Security Scan Orchestrator")
+        self.title("WebStrike Studio")
         self.geometry("1100x820")
         self.minsize(950, 650)
 
