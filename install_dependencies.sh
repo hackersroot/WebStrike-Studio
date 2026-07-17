@@ -80,4 +80,4 @@ fi
 # Verify dynamic configuration
 echo -e "\e[34m------------------------------------------------------------------\e[0m"
 echo -e "\e[32m[+] Deployment complete, Sandy! WebStrike Studio environment is locked.\e[0m"
-echo -e "\e[34m[*] Execute 'python3 webstrike_studio.py' to run the orchestrator.\e[0m"
+echo -e "\e[34m[*] Execute 'python3 Webstrike_studio.py' to run the orchestrator.\e[0m"
